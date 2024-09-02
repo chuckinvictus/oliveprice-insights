@@ -32,7 +32,7 @@ El objetivo principal de este proyecto es proporcionar un conjunto de herramient
 1. **Clona el Repositorio**:
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/chuckinvictus/oliveprice-insights
    cd tu-repositorio
    ```
 
