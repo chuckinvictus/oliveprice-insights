@@ -1,0 +1,13 @@
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.so
+venv/
+env/
+.venv/
+.env/
+.vscode/
+.idea/
+data/*.csv
+plots/
