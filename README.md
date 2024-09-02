@@ -33,7 +33,7 @@ El objetivo principal de este proyecto es proporcionar un conjunto de herramient
 
    ```bash
    git clone https://github.com/chuckinvictus/oliveprice-insights
-   cd tu-repositorio
+   cd oliveprice-insights
    ```
 
 2. **Instala las Dependencias**:
