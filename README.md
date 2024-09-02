@@ -1,4 +1,4 @@
-# Análisis y Predicción de Precios del Aceite de Oliva
+# OlivePrice Insights
 
 Este proyecto está diseñado para analizar los precios del aceite de oliva en origen, utilizando datos históricos desde 2012 hasta la actualidad. Las herramientas incluyen visualización de datos, análisis de componentes principales (PCA), clustering, y predicción mediante Random Forest.
 
